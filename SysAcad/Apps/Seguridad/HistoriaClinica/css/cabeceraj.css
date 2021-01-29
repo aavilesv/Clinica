@@ -1,0 +1,65 @@
+
+
+.lf{
+    float: left;
+    height: 110px;
+}
+.rg{
+    float: right;
+    height: 100px;
+}
+.cn{
+    text-align: center;
+}
+.tablaa{
+    border:1;
+}
+.escudo{
+    background-color: transparent;
+    float: right;
+    height: 60px;
+
+
+}
+.possicion{
+  position:absolute;
+  bottom:0;
+  width:100%;
+  color:white;
+  background-color:white;
+  font-size:10;
+  text-align:center;
+}
+h3{
+    margin: 0 0 0 2;
+padding: 0 0 0 2;
+border: 0;
+}
+TD{
+    width: 368px;
+     height: 280px;
+}
+table{
+   background-color: #E8E8E3;
+}
+.prdtos{
+        height: 50px;
+}
+.htclc{
+     height: 83px;
+}
+.psal{
+     height: 20px;
+}
+.normal{
+  font-style:italic;
+  //font-weight:bold;
+  font-size:16px;
+  font-family:'Helvetica','Verdana','Monaco',sans-serif;
+}
+.negrita{
+  font-style:italic;
+  font-weight:bold;
+  font-size:16px;
+  font-family:'Helvetica','Verdana','Monaco',sans-serif;
+}
